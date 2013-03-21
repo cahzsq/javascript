@@ -1,0 +1,9 @@
+<script>
+	alert ('aa');
+	var msg = "quanjubianliang";
+	function show (){
+		var msg = "jububianliang";
+	
+	}
+	alert('msg');
+</script>
